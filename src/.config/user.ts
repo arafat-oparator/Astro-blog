@@ -4,9 +4,9 @@ export const userConfig: Partial<UserConfig> = {
   // Override whatever you need from default.ts
   site: {
     title: 'Arafat Rahman',
-    subtitle: 'Your Subtitle',
-    author: 'Your Name',
-    description: 'Your description',
+    subtitle: 'Ideas to share',
+    author: 'Arafat Rahman',
+    description: 'I write here - my thoughts',
     website: 'https://yourdomain.com',
     pageSize: 10,
     socialLinks: [
